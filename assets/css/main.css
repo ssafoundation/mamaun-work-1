@@ -1,0 +1,27 @@
+.priceBlock {
+    padding-top: 10%;
+}
+
+.serviceDesBlock {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding: 15px;
+    margin: 5px;
+}
+
+.header {
+    padding-bottom: 30px;
+}
+
+.text-primary {
+    color: #ff5722 !important;
+}
+
+.card-header h5 {
+    color: #000;
+    font-weight: 700;
+}
+
+ul.navbar-nav {
+    padding-right: 15px;
+}
